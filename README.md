@@ -1,4 +1,4 @@
 # hello-world
 my first github repository.
 <br>
-author:amit sharma
+author: -amit sharma
